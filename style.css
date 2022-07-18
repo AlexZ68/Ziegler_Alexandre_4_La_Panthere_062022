@@ -678,6 +678,7 @@ a {
 
 p {
     font-size: 19px;
+    line-height: initial;
 }
 
 .tight-width-whitespace {

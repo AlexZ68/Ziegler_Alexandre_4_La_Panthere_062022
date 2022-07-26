@@ -717,6 +717,7 @@ h2 {
     line-height: 1.4em;
     padding-left: 10%;
     padding-right: 10%;
+    position: relative;
 }
 
 h4 {

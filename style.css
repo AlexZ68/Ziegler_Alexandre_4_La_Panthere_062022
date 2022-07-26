@@ -647,6 +647,7 @@ h5,
 h6,
 p,
 label,
+q,
 .btn,
 a {
     font-family: "helvetica";
@@ -676,9 +677,15 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
+p, .citation-fourchettes {
     font-size: 18px;
     line-height: initial;
+}
+
+q {
+    font-size: 18px;
+    line-height: initial;
+    font-style: italic;
 }
 
 .tight-width-whitespace {

@@ -717,22 +717,11 @@ h2 {
     line-height: 1.4em;
     padding-left: 10%;
     padding-right: 10%;
+    font-weight: bold;
     position: relative;
 }
 
-h4 {
-    font-size: 25px;
-    line-height: 1.4em;
-}
-
-h5 {
-    font-size: 25px;
-    line-height: 1.4em;
-    padding-left: 25%;
-    padding-right: 25%;
-}
-
-h3, h6 {
+h3 {
     font-size: 22px;
     text-transform: uppercase;
     font-weight: 700;
@@ -779,7 +768,7 @@ h4 {
 
 .black-background {
     background-color: rgba(165, 147, 99, 0.7);
-    padding: 40px 40px 40px 40px;
+    padding: 40px 10px 40px 10px;
 }
 
 .bold-link {

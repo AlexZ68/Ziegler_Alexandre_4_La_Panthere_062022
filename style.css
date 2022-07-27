@@ -90,11 +90,6 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
-    background: url("img/texture-paper.png");
-    background-size: 280px 280px;
-}
-
 .b-parallax {
     background-attachment: fixed;
 }
@@ -133,7 +128,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: black;
 }
 
 .d-bloc .a-btn:hover,
@@ -284,7 +279,7 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .navbar {
@@ -652,7 +647,7 @@ q,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 .container {
@@ -677,12 +672,12 @@ a {
     margin: auto auto auto auto;
 }
 
-p, .citation-fourchettes {
-    font-size: 18px;
-    line-height: initial;
+p {
+    font-size: 20px;
+    line-height: 1.4em;
 }
 
-q {
+.citation-fourchettes {
     font-size: 18px;
     line-height: initial;
     font-style: italic;
@@ -748,7 +743,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .portfolio-thumb {
@@ -789,12 +784,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -803,7 +798,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .ltc-white:hover {

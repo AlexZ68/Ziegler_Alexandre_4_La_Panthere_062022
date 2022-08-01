@@ -10,6 +10,7 @@ html {
     font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
+    font-display: swap;
 }
 
 body {
@@ -131,6 +132,7 @@ pre,
 samp {
     font-family: monospace, monospace;
     font-size: 1em
+    font-display: swap;
 }
 
 button,
@@ -315,6 +317,7 @@ th {
     top: 1px;
     display: inline-block;
     font-family: 'Glyphicons Halflings';
+    font-display: swap;
     font-style: normal;
     font-weight: 400;
     line-height: 1;
@@ -1404,6 +1407,7 @@ textarea {
     font-family: inherit;
     font-size: inherit;
     line-height: inherit
+    font-display: swap;
 }
 
 a {
@@ -1511,6 +1515,7 @@ h6 {
     font-weight: 500;
     line-height: 1.1;
     color: inherit
+    font-display: swap;
 }
 
 .h1 .small,
@@ -1923,6 +1928,7 @@ kbd,
 pre,
 samp {
     font-family: Menlo, Monaco, Consolas, "Courier New", monospace
+    font-display: swap;
 }
 
 code {
@@ -7214,6 +7220,7 @@ button.close {
     z-index: 1070;
     display: block;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-display: swap;
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
@@ -7348,6 +7355,7 @@ button.close {
     max-width: 276px;
     padding: 1px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-display: swap;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -7653,6 +7661,7 @@ button.close {
     width: 20px;
     height: 20px;
     font-family: serif;
+    font-display: swap;
     line-height: 1
 }
 
